@@ -1,0 +1,10 @@
+C:\Users\office001\Desktop\testPartner\test\bin\Debug\ExTexture.png
+C:\Users\office001\Desktop\testPartner\test\bin\Debug\sd01.png
+C:\Users\office001\Desktop\testPartner\test\bin\Debug\txp0.tmx
+C:\Users\office001\Desktop\testPartner\test\bin\Debug\testPartner.exe
+C:\Users\office001\Desktop\testPartner\test\bin\Debug\testPartner.pdb
+C:\Users\office001\Desktop\testPartner\test\obj\Debug\testPartner.Form1.resources
+C:\Users\office001\Desktop\testPartner\test\obj\Debug\testPartner.Properties.Resources.resources
+C:\Users\office001\Desktop\testPartner\test\obj\Debug\testPartner_.csproj.GenerateResource.Cache
+C:\Users\office001\Desktop\testPartner\test\obj\Debug\testPartner.exe
+C:\Users\office001\Desktop\testPartner\test\obj\Debug\testPartner.pdb
